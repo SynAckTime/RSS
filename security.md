@@ -19,3 +19,4 @@
 - **T-Minus 365** - https://tminus365.com/feed/
 - **Security Affairs** - https://securityaffairs.co/wordpress/feed
 - **Security Newspaper** - https://www.securitynewspaper.com/feed/
+- **VULDB RSS** - https://vuldb.com/?rss
